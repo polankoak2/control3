@@ -1,0 +1,11 @@
+C:\Users\apola\source\repos\new_control3\new_control3\bin\Debug\new_control3.exe.config
+C:\Users\apola\source\repos\new_control3\new_control3\bin\Debug\new_control3.exe
+C:\Users\apola\source\repos\new_control3\new_control3\bin\Debug\new_control3.pdb
+C:\Users\apola\source\repos\new_control3\new_control3\bin\Debug\new_control3.xml
+C:\Users\apola\source\repos\new_control3\new_control3\obj\Debug\new_control3.vbproj.AssemblyReference.cache
+C:\Users\apola\source\repos\new_control3\new_control3\obj\Debug\new_control3.Resources.resources
+C:\Users\apola\source\repos\new_control3\new_control3\obj\Debug\new_control3.vbproj.GenerateResource.cache
+C:\Users\apola\source\repos\new_control3\new_control3\obj\Debug\new_control3.vbproj.CoreCompileInputs.cache
+C:\Users\apola\source\repos\new_control3\new_control3\obj\Debug\new_control3.exe
+C:\Users\apola\source\repos\new_control3\new_control3\obj\Debug\new_control3.xml
+C:\Users\apola\source\repos\new_control3\new_control3\obj\Debug\new_control3.pdb
